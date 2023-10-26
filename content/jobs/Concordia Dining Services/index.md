@@ -1,7 +1,7 @@
 ---
 date: '2021-02-14'
 title: 'Student Manager'
-company: 'Concordia Dining Services'
+company: 'Dining Services'
 location: 'Moorhead, MN'
 range: 'Feb 2021 - Apr 2022'
 url: 'https://www.concordiacollege.edu/student-life/dining-services/'

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-15'
 title: 'Lab Accessioning Technician (Voluntary)'
-company: 'Precision Clinical Labs'
+company: 'PCL Labs'
 location: 'Denver, CO'
 range: 'May 2022 - June 2022'
 url: 'https://pclcare.com/'

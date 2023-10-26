@@ -1,7 +1,7 @@
 ---
 date: '2022-08-28'
 title: 'Student Manager'
-company: 'Concordia IT Services'
+company: 'IT Services'
 location: 'Moorhead, MN'
 range: 'Aug 2022 - Present'
 url: 'https://www.concordiacollege.edu/directories/offices-departments-directory/information-technology-services/'

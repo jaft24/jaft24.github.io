@@ -12,6 +12,12 @@ const StyledHeroSection = styled.section`
   min-height: 100vh;
   padding: 0;
 
+  @media (max-width: 500px) {
+    #resumeLink {
+      display: none;
+    }
+  }
+
   @media (max-width: 480px) and (min-height: 700px) {
     padding-bottom: 10vh;
   }
@@ -74,7 +80,7 @@ const Hero = () => {
         <a target="_top" href={`mailto:${email}`} className="email-link">
             Get In Touch
         </a>
-         <a style={{marginLeft: "20px"}} href="/resume.pdf" className="email-link">
+         <a id="resumeLink" style={{marginLeft: "20px"}} href="/resume.pdf" className="email-link">
              Resume
          </a>
         </>
