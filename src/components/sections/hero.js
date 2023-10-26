@@ -16,6 +16,7 @@ const StyledHeroSection = styled.section`
     #resumeLink {
       display: none;
     }
+    margin-top: 2vh;
   }
 
   @media (max-width: 480px) and (min-height: 700px) {
