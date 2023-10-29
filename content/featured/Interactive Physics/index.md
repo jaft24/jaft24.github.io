@@ -13,6 +13,6 @@ tech:
 ---
 
 A Windows App that simulates a creative quiz using Java and an interactive GUI on
-NetBeans by utilizing Adobe Photo-shop with an aime to make learning physics more
+NetBeans by utilizing Adobe Photo-shop with an aim to make learning physics more
 interactive and engaging for middle school students.
 
