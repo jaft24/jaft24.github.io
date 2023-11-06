@@ -72,7 +72,7 @@
         "deploy-to-github-pages": "^1.0.1",
         "eslint": "^7.25.0",
         "eslint-config-prettier": "^8.5.0",
-        "eslint-plugin-jsx-a11y": "^6.6.1",
+        "eslint-plugin-jsx-a11y": "^6.8.0",
         "eslint-plugin-react": "^7.31.11",
         "gatsby-remark-code-titles": "^1.1.0",
         "gh-pages": "^5.0.0",
