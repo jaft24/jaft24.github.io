@@ -3,7 +3,7 @@ date: '2'
 title: 'NewRoz Kebab Restaurant Website'
 cover: './nrk.png'
 github: 'https://github.com/jaft24/NewRoz-Kebab-Website'
-external: 'http://newroz-kebab.great-site.net/index.php'
+external: 'http://newroz-kebab.infinityfreeapp.com'
 video: "./nrk.mp4"
 tech:
   - HTML5
