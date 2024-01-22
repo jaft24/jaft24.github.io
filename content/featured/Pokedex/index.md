@@ -4,7 +4,7 @@ title: 'Pokédex Web App'
 cover: './pokedex.png'
 github: 'https://github.com/jaft24/Pokedex_FrontEnd_Project'
 github2: 'https://github.com/jaft24/Pokedex_BackEnd_Project'
-external: ''
+external: 'https://pokedex-frontend-project.fly.dev/'
 video: "./pokedex.mp4"
 tech:
   - Next.Js
