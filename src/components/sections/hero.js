@@ -66,13 +66,13 @@ const Hero = () => {
         return () => clearTimeout(timeout);
     }, []);
 
-    const one = <h1>Hi, my name is</h1>;
+    const one = <h2>Hi, my name is</h2>;
     const two = <h2 className="big-heading">Jaleta Tesgera</h2>;
     const three = <h3 className="big-heading">I am a full stack software and web developer.</h3>;
     const four = (
         <>
             <p>
-                Fargo, North Dakota, USA.
+                San Francisco, California, USA.
             </p>
         </>
     );
