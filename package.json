@@ -75,7 +75,7 @@
         "eslint-plugin-jsx-a11y": "^6.6.1",
         "eslint-plugin-react": "^7.31.11",
         "gatsby-remark-code-titles": "^1.1.0",
-        "gh-pages": "^5.0.0",
+        "gh-pages": "^6.1.1",
         "husky": "^8.0.2",
         "lint-staged": "^13.1.0",
         "prettier": "^2.8.1"
